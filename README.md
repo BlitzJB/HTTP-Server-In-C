@@ -1,3 +1,6 @@
+# A HTTP Server in C
+This was for my Semester 1 Mini Project for the course Programming in C. I picked this to be my problem statement as i wanted to explore how webservers operate at a low level after being exposed to abstractions like Flask and Express all my life. This was an exceptional learning experience and a project that got be insanely excited about low level programming in general!
+
 ### Targeted features: 
 - Listen and respond to incoming HTTP requests 
 - Parse URL routes and return the appropriate response 
